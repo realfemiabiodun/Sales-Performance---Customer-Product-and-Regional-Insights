@@ -80,13 +80,13 @@ The product portfolio is relatively balanced, reducing concentration risk and su
 1. Scale Volume-Driven Growth
 With revenue increasing by 114.6% YoY, primarily driven by order (+103.7%) and quantity growth (+112.3%), the business is clearly experiencing demand-led expansion.
 
-Recommendation
+- Recommendation
 Invest in inventory optimization, supply chain efficiency, and customer acquisition strategies to sustain high order volume. Since pricing contributed minimally (+1.1%), scaling operations is more critical than price adjustments.
 
 2. Leverage High AOV Momentum
 Average Order Value increased from 2,761 in 2023 to 3,049 in 2024, indicating stronger customer spending behavior.
 
-Recommendation
+- Recommendation
 Identify high-performing product bundles or premium products contributing to higher AOV and replicate these strategies across other categories. Introduce upselling and cross-selling campaigns to further increase transaction value.
 
 3. Invest in Emerging Product Trends
@@ -98,13 +98,13 @@ Monitor fast-growing product categories and allocate more marketing and inventor
 4. Reduce Regional Revenue Concentration Risk
 The West region dominates revenue, while North shows gradual improvement (0.38M → 0.42M).
 
-Recommendation
+- Recommendation
 Launch targeted regional campaigns in underperforming areas to diversify revenue streams. Expanding geographic contribution reduces dependency risk and supports sustainable growth.
 
 5. Maintain Balanced Product Portfolio
 The narrow gap between top and lowest-performing products suggests healthy distribution across the portfolio.
 
-Recommendation
+- Recommendation
 Continue diversifying product offerings while avoiding overreliance on single-product revenue streams. Maintain portfolio balance to protect against demand volatility.
 
 
