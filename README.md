@@ -92,7 +92,7 @@ Identify high-performing product bundles or premium products contributing to hig
 3. Invest in Emerging Product Trends
 The shift from Toaster (2023 leader) to Yoga Mat (2024 leader) signals evolving consumer demand.
 
-Recommendation
+- Recommendation
 Monitor fast-growing product categories and allocate more marketing and inventory investment toward emerging high-growth items. Establish a quarterly product performance review to detect shifts early.
 
 4. Reduce Regional Revenue Concentration Risk
