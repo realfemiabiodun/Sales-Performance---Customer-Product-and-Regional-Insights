@@ -24,12 +24,14 @@ The dashboard was developed to transform two years of raw sales data into a clea
 Using PivotTables and PivotCharts, sales trends were analyzed across time, regions, products, and customer segments. These insights were consolidated into an interactive Excel dashboard with filters controls, enabling users to explore performance dynamically. The final dashboard provides a comprehensive view of current performance, performance trends over time, and areas requiring strategic attention, supporting informed and data-driven decision-making.
 
 ## Tools Used
-1.Microsoft Excel: Used as the primary analysis and visualization platform for building the interactive sales dashboard.
+1. Microsoft Excel: Used as the primary analysis and visualization platform for building the interactive sales dashboard.
 2. Power Pivot: Used for data modeling, managing relationships between tables, and handling large datasets efficiently.
 3. DAX (Data Analysis Expressions): Used to create calculated measures such as Total Revenue, Total Orders, Average Order Value (AOV), Average Unit Price, and Year-on-Year (YoY) growth metrics.
 4. PivotTables: Used to summarize, aggregate, and analyze sales data across different dimensions such as time, region, product, and customer segments.
 5. PivotCharts: Used to visualize trends, comparisons, and performance patterns in a clear and interactive manner.
 6. Excel Slicers: Used to enable dynamic filtering and interactive exploration of the dashboard.
+
+## Key Insights
 
 
 
