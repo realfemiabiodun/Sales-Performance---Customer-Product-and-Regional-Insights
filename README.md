@@ -107,9 +107,24 @@ The narrow gap between top and lowest-performing products suggests healthy distr
 - Recommendation
 Continue diversifying product offerings while avoiding overreliance on single-product revenue streams. Maintain portfolio balance to protect against demand volatility.
 
+## Project Files
+
+- **Sales Performance Dashboard** – Main Excel dashboard showing overall KPIs and interactive charts.
+- **Customer, Product, and Insight Dashboard** – Detailed dashboard focused on customer segments, product performance, and regional insights.
+- **Sales Performance Interactive Dashboard** – Fully interactive dashboard for exploring trends over time (yearly).
+- **Data Modelling** – Power Pivot data model used to structure raw sales data for analysis.
+- **DAX Measure** – Collection of DAX formulas used to calculate KPIs like Total Revenue, AOV, Average Unit Price, and YoY growth.
+
+## How to use
+
+1. Scroll through the screenshots in this repository to explore the dashboard.  
+2. Review key metrics like Total Revenue, Total Orders, AOV, and YoY growth.  
+3. Examine charts for insights on products, customers, regions, and monthly trends.  
+4. Use the visuals to understand overall performance, yearly growth, and areas needing attention.
 
 
-
+## Data Sources 
+Easy Technologies Academy
 
 
 
